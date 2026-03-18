@@ -1,0 +1,6 @@
+{
+  "schedule": {
+    "cron": "0 9 1,15 * *",
+    "hint": "Strategic revenue analysis. Review all active projects and infrastructure. Research current opportunities (crypto, AI tools market, content monetization trends). Produce a prioritized report: what could generate revenue, ranked by potential×probability×effort. Commit to reports/YYYY-MM-DD-strategy.md"
+  }
+}
